@@ -1,0 +1,22 @@
+{
+  "name": "TestDemo",
+  "version": "0.1.0",
+  "summary": "A short description of TestDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yeyutinglou/TestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yeyutinglou": "yeyutinglou@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yeyutinglou/TestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestDemo/Classes/**/*"
+}
